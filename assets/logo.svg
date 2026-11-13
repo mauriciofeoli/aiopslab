@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="64" viewBox="0 0 300 64" role="img" aria-label="Tutor IA">
+  <path d="M32 27 C24 21 13 20 5 23 L5 58 C13 55 24 56 32 61 C40 56 51 55 59 58 L59 23 C51 20 40 21 32 27 Z M32 27 L32 61" fill="none" stroke="#111827" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M55 1 L57.1 6.9 L63 9 L57.1 11.1 L55 17 L52.9 11.1 L47 9 L52.9 6.9 Z" fill="#2563EB"/>
+  <text x="80" y="45" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="38" font-weight="600" letter-spacing="-0.5" fill="#111827">Tutor <tspan fill="#2563EB">IA</tspan></text>
+</svg>
